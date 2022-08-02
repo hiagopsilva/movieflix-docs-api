@@ -8,7 +8,7 @@ Projeto - MovieFlix Documentação API
 Documentação da API.
 
 ### Demo
-link: movieflix-docs-api.netlify.app
+link: https://movieflix-docs-api.netlify.app
 
 ### Informações do catálogo
 - Título
