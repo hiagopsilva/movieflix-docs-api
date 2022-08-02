@@ -8,9 +8,7 @@ Projeto - MovieFlix Documentação API
 Documentação da API.
 
 ### Demo
-```
-movieflix-docs-api.netlify.app
-```
+link: movieflix-docs-api.netlify.app
 
 ### Informações do catálogo
 - Título
@@ -26,7 +24,7 @@ movieflix-docs-api.netlify.app
 
 - execute os comandos: 
 ```
-git clon https://github.com/hiagopsilva/movieflix-docs-api.git
+git clone https://github.com/hiagopsilva/movieflix-docs-api.git
 ```
 
 ```
